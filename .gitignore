@@ -1,3 +1,8 @@
+notebooks/
+*.zip
+*.pyc
+database/
+*/PKG-INFO
 .env
 *.pyc
 __pycache__/
